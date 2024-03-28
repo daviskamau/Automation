@@ -1,0 +1,7 @@
+{
+    "chrome_driver_linux": "/usr/bin/chromedriver",
+    "chrome_driver_window": "C:\\Users\\Lorca\\AppData\\Local\\Google\\Chrome\\chromedriver.exe",
+    "chromedriver_mac": "/usr/local/bin/chromedriver",
+    "fpt_email": "longptse150885@fpt.edu.vn",
+    "fpt_password": "tryhardfailharder"
+}
